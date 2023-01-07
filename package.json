@@ -1,0 +1,23 @@
+{
+  "name": "clothes_shop_simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/libertasUA/clothes_shop_simple.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/libertasUA/clothes_shop_simple/issues"
+  },
+  "homepage": "https://github.com/libertasUA/clothes_shop_simple#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.60.0"
+  }
+}
